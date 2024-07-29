@@ -1,1 +1,1 @@
-# project-three
+# Django REST app
